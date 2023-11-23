@@ -10,7 +10,6 @@
 
   [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-gmailk&logoColor=007BFF)](mailto:jessicassouza.web@gmail.com)
 
-  [![Perfil DIO](https://img.shields.io/badge/Perfil-DIO-000?style=for-the-badge&logo=&logoColor=white)](+/https://web.dio.me/users/jessicassouza_web)
 
   ## Habilidades
 
