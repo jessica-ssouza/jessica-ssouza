@@ -6,7 +6,7 @@
    Como profissional dedicada à arte de cuidar, minha trajetória inclui anos no setor de saúde, onde testemunhei a importância da inovação no cuidado ao paciente. Agora, trago essa mesma dedicação para o universo da tecnologia, buscando fazer a diferença de maneira inovadora e significativa. Minha motivação para essa transição é impulsionada pela paixão por desafios e a crença de que este ambiente colaborativo é ideal para aprendizado, crescimento e desenvolvimento.
 
   ## Conecte-se comigo
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jessica-souza03/)  [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-gmailk&logoColor=007BFF)](mailto:jessicassouza.web@gmail.com)  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+16+996062716)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-ssouza03/)  [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:jessicassouza.web@gmail.com)    [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55+16+996062716)  
   
   ## Habilidades
 
