@@ -12,21 +12,18 @@
 
   📌 *Soft Skills* 
 
-  * Capacidade analítica
+  * Capacidade analítica                         * Gerenciamento de tempo e organização
+  * Aprendizagem contínua                        * Comunicação e trabalho em equipe
   * Inteligência emocional
-  * Comunicação e trabalho em equipe
-  * Gerenciamento de tempo e organização
-  * Aprendizagem contínua
+ 
+ 📌 *Hard Skills* 
+
+![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown) ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
+
+![Object Pascal](https://img.shields.io/badge/Object-Pascal-000?style=for-the-badge&logo=&logoColor=777884) ![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=&logoColor=777884)
 
 
-  📌 *Hard Skills* 
 
-![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)
 
-![Object Pascal](https://img.shields.io/badge/Object-Pascal-000?style=for-the-badge&logo=&logoColor=777884)
-
-![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=&logoColor=777884)
-
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
 
 
