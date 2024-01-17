@@ -18,7 +18,7 @@
   * Gerenciamento de tempo e organização
   * Comunicação e trabalho em equipe
  
- 📌 *Hard Skills* 
+ 📌 *Hard Skills em evolução* 
 
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown)  ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
 
