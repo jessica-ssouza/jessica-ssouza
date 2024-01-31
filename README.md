@@ -1,6 +1,6 @@
 # *Olá, seja muito bem vindo(a)!!*
 
-  Esta plataforma registra minha transição da carreira de enfermagem para tecnologia, destacando aprendizados específicos, desafios inspiradores e minha paixão por ambas as áreas.
+  Esta plataforma documenta minha transição de carreira da enfermagem para a área de tecnologia, evidenciando aprendizados específicos, desafios inspiradores e minha paixão por ambas as disciplinas.
 
   ## Sobre Mim
    Como profissional dedicada à arte de cuidar, testemunhei a importância da inovação no cuidado ao paciente. Agora, trago essa mesma dedicação para o universo da tecnologia, buscando fazer a diferença de maneira inovadora e significativa. Minha motivação para essa transição é impulsionada pela paixão por desafios e a oportunidade de aprender, crescer e me desenvolver.
